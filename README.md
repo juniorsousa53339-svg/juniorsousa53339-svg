@@ -1,6 +1,5 @@
 
-<div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" />
+<img width="1588" height="443" alt="Group 7" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" />
 
 # Luciano Luis de Sousa Junior
 
