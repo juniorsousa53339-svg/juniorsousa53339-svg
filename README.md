@@ -1,182 +1,62 @@
+<div align="center">
 
-<img width="1588" height="443" alt="Group 7" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" />
+<img width="1588" height="443" alt="Full Stack Júnior banner" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" />
 
 # Luciano Luis de Sousa Junior
+### Desenvolvedor Backend Java Júnior · Spring Boot · Spring Security · APIs RESTful · Angular
 
-### 🚀 Full Stack Developer Jr. | Java | Spring Boot | Angular
+📍 São Paulo - SP &nbsp;|&nbsp; 🎓 Análise e Desenvolvimento de Sistemas (Senac SP) &nbsp;|&nbsp; 💼 Em busca de oportunidade Backend Java / Full Stack Júnior
 
-📍 São Paulo - SP  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (Senac SP)  
-💼 Em busca de oportunidades como Desenvolvedor Java Júnior, Back-end Java ou Full Stack Júnior
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosousa001)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorsousa53339@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juniorsousa53339-svg)
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+## Sobre mim
 
-Sou Desenvolvedor Full Stack Júnior com foco em Java, Spring Boot e Angular, atualmente cursando Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Backend Júnior com **3 projetos reais em produção** (AWS EC2 + Docker), construídos com **Java 17, Spring Boot, Spring Security (JWT) e Spring Data JPA**. Aplico **Clean Code e Clean Architecture** em APIs RESTful documentadas via OpenAPI/Swagger, com testes automatizados (**JUnit 5 + Mockito**) e bancos relacionais (**PostgreSQL/MySQL**). Também construo interfaces em **Angular 19+ e TypeScript** quando o projeto exige full stack.
 
-Tenho experiência prática no desenvolvimento de aplicações web completas, desde a construção de APIs REST e regras de negócio até a criação de interfaces modernas e integração entre front-end e back-end.
+## Stack
 
-Meu principal interesse está no desenvolvimento Back-end com Java e Spring Boot, trabalhando com autenticação, autorização, arquitetura em camadas, testes automatizados e construção de sistemas escaláveis. Também venho evoluindo constantemente no Front-end com Angular e TypeScript.
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Atualmente estudo e aplico tecnologias utilizadas pelo mercado como:
+## Projetos em produção
 
-- Java
-- Spring Boot
-- Spring Security
-- Angular
-- TypeScript
-- PostgreSQL
-- MySQL
-- Docker
-- AWS
-- JUnit
-- Mockito
-- Git e GitHub
-- APIs REST
-- Clean Code
-- POO
+**[RequestHub](https://github.com/juniorsousa53339-svg/RequestHub)** — Sistema de gestão de solicitações com Clean Architecture, autenticação JWT, perfis ADMIN/SOLICITANTE, testes com JUnit 5 + Mockito e deploy em AWS EC2 via Docker Compose + Nginx.
+`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `Angular 19` · [Demo](http://3.145.21.227/login)
 
----
+**Barber Pro System** — Sistema de agendamento full stack com autenticação stateless via JWT, controle de acesso por roles e migração de banco H2 → PostgreSQL.
+`Java 17` `Spring Boot` `Angular 19` `Docker Compose`
 
-# 🛠️ Stack Tecnológica
+**Sistema de Login e Autenticação** — Microsserviço de autenticação segura com geração/validação de tokens JWT e rotas protegidas.
+`Java 17` `Spring Security` `JWT` `JPA/Hibernate`
 
-## Backend
-
-![Java](https://skillicons.dev/icons?i=java,spring,mysql,postgres)
-
-## Frontend
-
-![Frontend](https://skillicons.dev/icons?i=angular,ts,html,css)
-
-## DevOps e Ferramentas
-
-![Tools](https://skillicons.dev/icons?i=docker,aws,git,github,vscode,idea)
-
----
-
-# 🚀 Projetos em Destaque
-
-## 📌 RequestHub — Sistema Full Stack de Solicitações
-
-### Tecnologias
-
-- Java 21
-- Spring Boot
-- Spring Security
-- Angular
-- TypeScript
-- PostgreSQL
-- Docker
-- AWS EC2
-- JUnit
-- Mockito
-- Swagger/OpenAPI
-
-### Funcionalidades
-
-✅ Autenticação e autorização com Spring Security
-
-✅ Perfis ADMIN e SOLICITANTE
-
-✅ CRUD completo de solicitações
-
-✅ Regras de negócio por status
-
-✅ Testes unitários
-
-✅ Documentação da API
-
-✅ Deploy com Docker Compose na AWS
-
-🌐 Projeto Online:
-http://3.145.21.227/login
-
-📦 Repositório:
-https://github.com/juniorsousa53339-svg/RequestHub
-
----
-
-## 💈 Sistema de Agendamento Full Stack
-
-### Tecnologias
-
-- Spring Boot
-- Angular
-- Spring Security
-- H2
-- PostgreSQL
-- Docker
-
-Sistema completo de agendamento com integração entre Front-end e Back-end, autenticação de usuários, controle de acesso e gerenciamento de horários.
-
----
-
-## 🚗 Car Management System
-
-Projeto desenvolvido aplicando Programação Orientada a Objetos (POO), boas práticas de desenvolvimento e documentação totalmente em inglês.
-
----
-
-# 📈 Atualmente Estudando
-
-- Arquitetura de Software
-- Spring Security Avançado
-- Docker
-- AWS
-- Testes Automatizados
-- Boas práticas de APIs REST
-- Angular
-
----
-
-# 📊 Estatísticas
+## GitHub
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=juniorsousa53339-svg&show_icons=true)
+![Followers](https://img.shields.io/github/followers/juniorsousa53339-svg?label=followers&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=juniorsousa53339-svg&style=flat-square&label=profile+views)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=juniorsousa53339-svg)
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/LucianoJunior/output/github-snake.svg" alt="Snake Game" />
-</div>
-
----
-
-# 🌐 Conecte-se Comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano%20Sousa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucianosousa001)
-
-[![Email](https://img.shields.io/badge/Email-juniorsousa53339%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:juniorsousa53339@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-juniorsousa53339--svg-181717?style=for-the-badge&logo=github)](https://github.com/juniorsousa53339-svg)
+<img src="https://raw.githubusercontent.com/juniorsousa53339-svg/LucianoJunior/output/github-snake.svg" alt="Snake Game" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"A evolução acontece quando a prática encontra a consistência."</i>
+<i>"A evolução acontece quando a prática encontra a consistência."</i>
 </div>
-
