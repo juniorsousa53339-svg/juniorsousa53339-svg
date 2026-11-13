@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/dotted-wave.svg" alt="Animated dotted wave — Luciano Sousa" />
+<img width="100%" src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/profile-banner.jpg" alt="Luciano Sousa — create profile banner" />
 
 <h1>Luciano Sousa <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/waving-hand.svg" width="38" alt="Waving hand" /></h1>
 
