@@ -1,62 +1,139 @@
 <div align="center">
 
-<img width="1588" height="443" alt="Full Stack Júnior banner" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" />
+<img width="100%" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" alt="Luciano Sousa — Developer profile banner" />
 
-# Luciano Luis de Sousa Junior
-### Desenvolvedor Backend Java Júnior · Spring Boot · Spring Security · APIs RESTful · Angular
+# Luciano Sousa
 
-📍 São Paulo - SP &nbsp;|&nbsp; 🎓 Análise e Desenvolvimento de Sistemas (Senac SP) &nbsp;|&nbsp; 💼 Em busca de oportunidade Backend Java / Full Stack Júnior
+### Backend Java Developer · Full Stack Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosousa001)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorsousa53339@gmail.com)
+**Java & Spring Boot · APIs REST · Software Architecture · AI-assisted Engineering**
+
+São Paulo, Brazil · ADS — Centro Universitário Senac
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosousa001/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorsousa53339@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juniorsousa53339-svg)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👋 About me
 
-Desenvolvedor Backend Júnior com **3 projetos reais em produção** (AWS EC2 + Docker), construídos com **Java 17, Spring Boot, Spring Security (JWT) e Spring Data JPA**. Aplico **Clean Code e Clean Architecture** em APIs RESTful documentadas via OpenAPI/Swagger, com testes automatizados (**JUnit 5 + Mockito**) e bancos relacionais (**PostgreSQL/MySQL**). Também construo interfaces em **Angular 19+ e TypeScript** quando o projeto exige full stack.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Centro Universitário Senac**, concluindo o **4º semestre em novembro de 2026**. Meu foco principal é o desenvolvimento **Backend com Java e Spring Boot**, com experiência prática também na construção de aplicações Full Stack com Angular.
 
-## Stack
+Gosto de entender o sistema como um todo: da modelagem e implementação de APIs à persistência de dados, segurança, testes, integração com interfaces e execução em containers. Também venho incorporando **LLMs e agentes especializados** ao meu fluxo de engenharia, com contexto, regras e responsabilidades bem definidos.
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Atualmente, busco oportunidades para continuar evoluindo como desenvolvedor Backend Java ou Full Stack.
 
-## Projetos em produção
+## 🧰 Tech stack
 
-**[RequestHub](https://github.com/juniorsousa53339-svg/RequestHub)** — Sistema de gestão de solicitações com Clean Architecture, autenticação JWT, perfis ADMIN/SOLICITANTE, testes com JUnit 5 + Mockito e deploy em AWS EC2 via Docker Compose + Nginx.
-`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `Angular 19` · [Demo](http://3.145.21.227/login)
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring" />
+</p>
 
-**Barber Pro System** — Sistema de agendamento full stack com autenticação stateless via JWT, controle de acesso por roles e migração de banco H2 → PostgreSQL.
-`Java 17` `Spring Boot` `Angular 19` `Docker Compose`
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Angular, TypeScript, JavaScript, HTML and CSS" />
+</p>
 
-**Sistema de Login e Autenticação** — Microsserviço de autenticação segura com geração/validação de tokens JWT e rotas protegidas.
-`Java 17` `Spring Security` `JWT` `JPA/Hibernate`
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
+  <img src="https://img.shields.io/badge/H2_Database-09476B?style=flat-square&logo=h2&logoColor=white" alt="H2 Database" />
+</p>
 
-## GitHub
+**Cloud, DevOps & tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,idea,vscode" alt="Docker, AWS, Git, GitHub, Postman, IntelliJ IDEA and VS Code" />
+</p>
+
+**Testing, documentation & messaging**
+<p>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger and OpenAPI" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
+
+## 🤖 AI & Context Engineering
+
+Utilizo ferramentas baseadas em **LLMs** como apoio ao processo de desenvolvimento, com foco em contexto estruturado e colaboração entre agentes — não apenas geração de código.
+
+- **Context Engineering:** organização de contexto, instruções e padrões específicos por projeto.
+- **Project rules:** arquivos de regras e orientações persistentes para manter consistência durante o desenvolvimento.
+- **CLAUDE.md / configuração de agentes:** documentação de contexto e instruções para ferramentas de IA.
+- **Multi-agent workflows:** divisão de atividades entre agentes com responsabilidades específicas.
+- **AI-assisted code review & QA:** apoio à análise de código, testes e identificação de possíveis problemas.
+- **Human-in-the-loop:** decisões técnicas, validação e responsabilidade final permanecem com o desenvolvedor.
+
+No FinFlow, por exemplo, o repositório documenta agentes especializados para mentoria técnica e apoio à qualidade dos testes.
+
+## 🚀 Featured projects
+
+### [Agendador de Horários — LucDev Barber](https://github.com/juniorsousa53339-svg/agendador-horarios)
+
+Aplicação Full Stack para gerenciamento de agendamentos, com backend Java/Spring Boot e frontend Angular.
+
+**Destaques:** API REST, Spring Security, Spring Data JPA, PostgreSQL/Supabase e deploy separado para frontend e backend.
+
+**Stack:** Java 17 · Spring Boot 3 · Angular · PostgreSQL · Docker
+
+[Backend](https://github.com/juniorsousa53339-svg/agendador-horarios) · [Frontend](https://github.com/juniorsousa53339-svg/agendador-horarios-front)
+
+### [RequestHub](https://github.com/juniorsousa53339-svg/RequestHub)
+
+Sistema Full Stack para gerenciamento de solicitações internas, com fluxo de status controlado e autorização por perfil.
+
+**Destaques:** API REST, separação entre backend e frontend, Spring Security, persistência relacional, testes e execução com Docker Compose/Nginx.
+
+**Stack:** Java 21 · Spring Boot · Angular 21 · PostgreSQL · Docker · Nginx
+
+### [FinFlow](https://github.com/juniorsousa53339-svg/finflow)
+
+Projeto educacional de um ecossistema de transferências financeiras, explorando microsserviços, mensageria e arquitetura hexagonal.
+
+**Destaques:** serviços de transferência e processamento, integração com Apache Kafka, persistência relacional, testes automatizados e configuração de agentes de IA documentada no projeto.
+
+**Stack:** Java 17 · Spring Boot · Apache Kafka · PostgreSQL · H2 · Docker Compose · JUnit 5 · Mockito
+
+## 📊 GitHub analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juniorsousa53339-svg&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsousa53339-svg&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=juniorsousa53339-svg&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</div>
+
+## 📈 Contribution activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=juniorsousa53339-svg&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+## 🤝 Let's connect
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/juniorsousa53339-svg?label=followers&style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=juniorsousa53339-svg&style=flat-square&label=profile+views)
-
-<img src="https://raw.githubusercontent.com/juniorsousa53339-svg/LucianoJunior/output/github-snake.svg" alt="Snake Game" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosousa001/)
+[![GitHub](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juniorsousa53339-svg)
+[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorsousa53339@gmail.com)
 
 </div>
 
 ---
 
+## 🐍 Contributions
+
 <div align="center">
-<i>"A evolução acontece quando a prática encontra a consistência."</i>
+  <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <sub>Construindo, aprendendo e evoluindo um commit de cada vez.</sub>
 </div>
