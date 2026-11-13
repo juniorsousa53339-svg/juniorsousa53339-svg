@@ -20,7 +20,7 @@ São Paulo, Brazil · ADS — Centro Universitário Senac
 
 ## 👋 About me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no Centro Universitário Senac**, concluindo o **4º semestre em novembro de 2026**. Meu foco principal é o desenvolvimento **Backend com Java e Spring Boot**, com experiência prática também na construção de aplicações Full Stack com Angular.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Centro Universitário Senac**, concluindo o **3º semestre em novembro de 2026**. Meu foco principal é o desenvolvimento **Backend com Java e Spring Boot**, com experiência prática também na construção de aplicações Full Stack com Angular.
 
 Gosto de entender o sistema como um todo: da modelagem e implementação de APIs à persistência de dados, segurança, testes, integração com interfaces e execução em containers. Também venho incorporando **LLMs e agentes especializados** ao meu fluxo de engenharia, com contexto, regras e responsabilidades bem definidos.
 
