@@ -99,23 +99,6 @@ Projeto educacional de um ecossistema de transferências financeiras, explorando
 
 **Stack:** Java 17 · Spring Boot · Apache Kafka · PostgreSQL · H2 · Docker Compose · JUnit 5 · Mockito
 
-## 📊 GitHub analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juniorsousa53339-svg&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsousa53339-svg&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=juniorsousa53339-svg&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-</div>
-
-## 📈 Contribution activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=juniorsousa53339-svg&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
 ## 🤝 Let's connect
 
 <div align="center">
