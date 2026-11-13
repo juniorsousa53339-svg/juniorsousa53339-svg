@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/f57f96bc-e6e0-46e9-8a73-cc2b4470e25d" alt="Luciano Sousa — Developer profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/profile/readme-redesign/assets/dotted-wave.svg" alt="Animated dotted wave — Luciano Sousa" />
 
-# Luciano Sousa
+<h1>Luciano Sousa <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/profile/readme-redesign/assets/waving-hand.svg" width="38" alt="Waving hand" /></h1>
 
 ### Backend Java Developer · Full Stack Development
 
