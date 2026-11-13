@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4b03f501-243e-4b26-bbe6-e9f2a57082f2" width="100%" height="280" alt="Luciano Sousa — profile banner" />
 
 <h1>Luciano Sousa <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/waving-hand.svg" width="38" alt="Waving hand" /></h1>
 
