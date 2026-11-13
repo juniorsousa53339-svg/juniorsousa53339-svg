@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/profile/readme-redesign/assets/dotted-wave.svg" alt="Animated dotted wave — Luciano Sousa" />
+<img width="100%" src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/dotted-wave.svg" alt="Animated dotted wave — Luciano Sousa" />
 
-<h1>Luciano Sousa <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/profile/readme-redesign/assets/waving-hand.svg" width="38" alt="Waving hand" /></h1>
+<h1>Luciano Sousa <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/main/assets/waving-hand.svg" width="38" alt="Waving hand" /></h1>
 
 ### Backend Java Developer · Full Stack Development
 
